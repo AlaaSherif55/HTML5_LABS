@@ -1,0 +1,15 @@
+body {
+  background-color: #f0f0f0; /* Set your desired background color */
+}
+
+.container {
+  height: 100%;
+}
+
+.image {
+  text-align: center;
+}
+
+.button{
+  text-align: center;
+}
